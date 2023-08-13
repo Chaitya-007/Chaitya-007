@@ -1,6 +1,6 @@
 <p align="center"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgn--_Bz1rfAqhcE7hUBbb4MWlbdJW85z8gWL86mkshsfo1iK0Bc695tANjjYl5ZMVhzN4wBv7ljs5NVnaCoIjb2lHmtR43ApNLHoFb2jgGwF0QZiCbdIVJBK1djiX2DF70zKR1wDlR9r-H3pDoSyQAIUcRGYEMD6fI-2URoQSYUpHcYGh9juHssX1hg/w640-h360/How%20to%20solve%20(2).gif" /></p>
 <h1 align="center">Hi 👋, I'm Chaitanya Asole</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+<h3 align="center">A Passionate Software Developer from India</h3>
 
 <img align="right" alt="coding" width="400" src ="https://media.tenor.com/2uyENRmiUt0AAAAM/coding.gif">
 
