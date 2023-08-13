@@ -74,11 +74,11 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chaitya-007&theme=github_dark&utcOffset={utcOffset})
 -->
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chaitya-007&theme=blue_green)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chaitya-007&theme=blue_green)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chaitya-007&theme=blue_green)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=chaitya-007&theme=blue_green)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chaitya-007&theme=blue_green&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chaitya-007&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chaitya-007&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chaitya-007&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=chaitya-007&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chaitya-007&theme=tokyonight&utcOffset=8)
 
 <!--
 theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true
