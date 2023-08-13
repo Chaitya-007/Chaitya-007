@@ -4,9 +4,10 @@
 
 <h3 align="center">A Passionate Software Developer from India</h3>
 
-<img align="right" alt="coding" width="400" src ="https://media.tenor.com/2uyENRmiUt0AAAAM/coding.gif">
+<img align="right" alt="coding" width="380" src ="https://media.tenor.com/2uyENRmiUt0AAAAM/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaitya-007&label=Profile%20views&color=0e75b6&style=flat" alt="chaitya-007" /> </p>
+<p align="left"> <img src="https://visitcount.itsvg.in/api?id=chaitya-007&icon=9&color=7" alt="chaitya-007" /> </p>
 
 - 📚 **Worked on a project** [Hospital Management System](https://github.com/Chaitya-007/Hospital-Management-DBMS-PROJECT)
 
@@ -33,7 +34,9 @@
 -->
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chaitanya-asole) 
+<a href="mailto:chaitanyaasole@gmail.com"><img src="https://img.shields.io/badge/email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://www.linkedin.com/in/chaitanya-asole/" target="_blank"><img src="https://img.shields.io/badge/linkedIn-%2300599C.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"></a>
+
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
