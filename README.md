@@ -6,9 +6,11 @@
 
 <img align="right" alt="coding" width="380" src ="https://media.tenor.com/2uyENRmiUt0AAAAM/coding.gif">
 
+<!-- BlueButton Profile Viewer
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaitya-007&label=Profile%20views&color=0e75b6&style=flat" alt="chaitya-007" /> </p>
-<p align="left"> <img src="https://visitcount.itsvg.in/api?id=chaitya-007&icon=9&color=7" alt="chaitya-007" /> </p>
-<!--[![](https://visitcount.itsvg.in/api?id=chaitya-007&icon=9&color=7)](https://visitcount.itsvg.in)-->
+-->
+
+[![](https://visitcount.itsvg.in/api?id=chaitya-007&icon=9&color=7)](https://visitcount.itsvg.in)
 
 - 📚 **Worked on a project** [Hospital Management System](https://github.com/Chaitya-007/Hospital-Management-DBMS-PROJECT)
 
@@ -35,6 +37,8 @@
 -->
 
 ## 🌐 Socials:
+
+<!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chaitanya-asole)-->
 <a href="mailto:chaitanyaasole@gmail.com"><img src="https://img.shields.io/badge/email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://www.linkedin.com/in/chaitanya-asole/" target="_blank"><img src="https://img.shields.io/badge/linkedIn-%2300599C.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"></a>
 
