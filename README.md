@@ -24,11 +24,25 @@
 
 <h3 align="left">Coding Profile:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/chaitanya-asole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chaitanya-asole" height="30" width="40" /></a>
+
+<!--
 <a href="https://www.codechef.com/users/chaitanyaasole" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="chaitanyaasole" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/chaitanyaasole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="chaitanyaasole" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/chaitanyaasole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chaitanyaasole" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/chaitanys9wx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="chaitanys9wx" height="30" width="40" /></a>
+-->
+
+
+<a href="https://auth.geeksforgeeks.org/user/chaitanys9wx"><img src="https://img.shields.io/badge/GeeksForGeeks-%234ea94b.svg?style=for-the-badge&logo=GeeksForGeeks&logoColor=white" alt="GeeksForGeeks"></a>
+<a href="https://www.hackerrank.com/chaitanyaasole"><img src="https://img.shields.io/badge/HackerRank-%23000000.svg?style=for-the-badge&logo=Hackerrank&logoColor=white" alt="Hackerrank"></a>
+<a href="https://www.leetcode.com/chaitanyaasole"><img src="https://img.shields.io/badge/LeetCode-%23000000.svg?style=for-the-badge&logo=LeetCode&logoColor=golden" alt="LeetCode"></a>
+<a href="https://www.codechef.com/users/chaitanyaasole"><img src="https://img.shields.io/badge/CodeChef-%238B4513.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef"></a>
+
+
+
+
+
+  
 </p>
 
 <!--
@@ -36,7 +50,7 @@
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 -->
 
-## 🌐 Connect with me:
+## 🤝 Connect with me:
 
 <!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chaitanya-asole)-->
 <a href="mailto:chaitanyaasole@gmail.com"><img src="https://img.shields.io/badge/email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
@@ -75,11 +89,11 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chaitya-007&theme=github_dark&utcOffset={utcOffset})
 -->
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chaitya-007&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chaitya-007&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chaitya-007&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=chaitya-007&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chaitya-007&theme=tokyonight&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chaitya-007&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chaitya-007&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chaitya-007&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=chaitya-007&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chaitya-007&theme=2077&utcOffset=8)
 
 <!--
 theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true
