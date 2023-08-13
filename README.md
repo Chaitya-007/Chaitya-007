@@ -20,7 +20,7 @@
 
 <!--- 📫 How to reach me **chaitanyaasole@gmail.com**-->
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1xafhtweaBQhA-PL25oiadMVwaQbKYpmR/view?usp=sharing](https://drive.google.com/file/d/1xafhtweaBQhA-PL25oiadMVwaQbKYpmR/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1xafhtweaBQhA-PL25oiadMVwaQbKYpmR/view?usp=sharing)
 
 <h3 align="left">Coding Profile:</h3>
 <p align="left">
