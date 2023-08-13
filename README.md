@@ -4,7 +4,7 @@
 
 <h3 align="center">A Passionate Software Developer from India</h3>
 <p>
-<img align="right" alt="coding" width="380" src ="https://media.tenor.com/2uyENRmiUt0AAAAM/coding.gif">
+<img align="right" alt="coding" width="320" src ="https://media.tenor.com/2uyENRmiUt0AAAAM/coding.gif">
 </p>
 
 <!-- BlueButton Profile Viewer
@@ -23,10 +23,10 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1xafhtweaBQhA-PL25oiadMVwaQbKYpmR/view?usp=sharing)
 
-<!--
+
 <h3 align="left">Coding Profile:</h3>
 <p align="left">
--->
+
 <!--
 <a href="https://www.codechef.com/users/chaitanyaasole" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="chaitanyaasole" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/chaitanyaasole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="chaitanyaasole" height="30" width="40" /></a>
@@ -34,7 +34,7 @@
 <a href="https://auth.geeksforgeeks.org/user/chaitanys9wx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="chaitanys9wx" height="30" width="40" /></a>
 -->
 
-# Coding Profiles
+
 <p>
 <a href="https://auth.geeksforgeeks.org/user/chaitanys9wx"><img src="https://img.shields.io/badge/GeeksForGeeks-%234ea94b.svg?style=for-the-badge&logo=GeeksForGeeks&logoColor=white" alt="GeeksForGeeks"></a>
 <a href="https://www.hackerrank.com/chaitanyaasole"><img src="https://img.shields.io/badge/HackerRank-%23000000.svg?style=for-the-badge&logo=Hackerrank&logoColor=white" alt="Hackerrank"></a>
