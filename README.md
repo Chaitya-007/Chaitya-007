@@ -32,11 +32,12 @@
 <a href="https://auth.geeksforgeeks.org/user/chaitanys9wx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="chaitanys9wx" height="30" width="40" /></a>
 -->
 
-
+<p>
 <a href="https://auth.geeksforgeeks.org/user/chaitanys9wx"><img src="https://img.shields.io/badge/GeeksForGeeks-%234ea94b.svg?style=for-the-badge&logo=GeeksForGeeks&logoColor=white" alt="GeeksForGeeks"></a>
 <a href="https://www.hackerrank.com/chaitanyaasole"><img src="https://img.shields.io/badge/HackerRank-%23000000.svg?style=for-the-badge&logo=Hackerrank&logoColor=white" alt="Hackerrank"></a>
 <a href="https://www.leetcode.com/chaitanyaasole"><img src="https://img.shields.io/badge/LeetCode-%23000000.svg?style=for-the-badge&logo=LeetCode&logoColor=golden" alt="LeetCode"></a>
 <a href="https://www.codechef.com/users/chaitanyaasole"><img src="https://img.shields.io/badge/CodeChef-%238B4513.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef"></a>
+</p>
 
 
 
