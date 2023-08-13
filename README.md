@@ -39,13 +39,13 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chaitya-007&" alt="chaitya-007" /></p>
 -->
 
+
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=chaitya-007&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api?username=chaitya-007&theme=holi&show_icons=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=chaitya-007&theme=midnight-purple&hide_border=false)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chaitya-007&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chaitya-007&theme=radical&exclude={exclude})
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chaitya-007&theme=monokai&exclude={exclude})
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chaitya-007&theme=2077&exclude={exclude})
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=chaitya-007&theme=solarized_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chaitya-007&theme=github_dark&utcOffset={utcOffset})
 
