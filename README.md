@@ -30,19 +30,32 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
+# My Github Stats
 <!--
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chaitya-007&show_icons=true&locale=en&layout=compact" alt="chaitya-007" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chaitya-007&show_icons=true&locale=en&layout=compact&theme=radical" alt="chaitya-007" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chaitya-007&show_icons=true&locale=en" alt="chaitya-007" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chaitya-007&show_icons=true&locale=en&theme=radical" alt="chaitya-007" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chaitya-007&" alt="chaitya-007" /></p>
 -->
 
+![](https://github-readme-stats.vercel.app/api/top-langs?username=chaitya-007&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=chaitya-007&theme=holi&show_icons=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=chaitya-007&theme=midnight-purple&hide_border=false)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chaitya-007&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chaitya-007&theme=radical&exclude={exclude})
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chaitya-007&theme=monokai&exclude={exclude})
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chaitya-007&theme=2077&exclude={exclude})
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=chaitya-007&theme=solarized_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chaitya-007&theme=github_dark&utcOffset={utcOffset})
 
-# Github Stats
-<p><img src = "https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/darcula/0-profile-details.svg")("https://github.com/vn7n24fzkq/github-profile-summary-cards" /></p>
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/darcula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)<br/>
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/darcula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)<br/>
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/darcula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/darcula/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)<br/>
+<!--
+theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true
+show_icons=true&locale=en&layout=compact&theme=radical
+theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact
+-->
+
+
+
 
 
