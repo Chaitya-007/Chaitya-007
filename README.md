@@ -27,10 +27,14 @@
   <img src="https://visitcount.itsvg.in/api?id=Chaitya&label=Profile%20Views&color=4&icon=9&pretty=true" />
 </a>
 -->
+<!--
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Chaitya&label=Profile%20Views&color=7&icon=9&pretty=true" />
 </a>
-
+-->
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Chaitya&label=Profile%20Views&color=2&icon=9&pretty=true" />
+</a>
 
 - 📚 **Worked on a project** [Hospital Management System](https://github.com/Chaitya-007/Hospital-Management-DBMS-PROJECT)
 
