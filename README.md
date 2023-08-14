@@ -108,11 +108,11 @@ Goes well in starting but does not loads quickly
 
 # 📊 GitHub Stats:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chaitya-007&show_icons=true&locale=en&layout=compact&theme=radical" alt="chaitya-007" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chaitya-007&show_icons=true&locale=en&layout=compact&theme=radical" alt="chaitya-007" /></p> 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chaitya-007&show_icons=true&locale=en&theme=radical" alt="chaitya-007" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chaitya-007&show_icons=true&locale=en&theme=radical" alt="chaitya-007" /></p> 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chaitya-007&" alt="chaitya-007" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chaitya-007&" alt="chaitya-007" /></p> 
 
 
 <!--Most languages used 
