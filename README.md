@@ -11,7 +11,26 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaitya-007&label=Profile%20views&color=0e75b6&style=flat" alt="chaitya-007" /> </p>
 -->
 
+<!--
 [![](https://visitcount.itsvg.in/api?id=chaitya-007&icon=9&color=7)](https://visitcount.itsvg.in)
+
+<p>
+  <a href="https://visitcount.itsvg.in/api?id=chaitya-007&icon=9&color=7"><img src="https://visitcount.itsvg.in"></a>
+</p>
+-->
+
+<!--
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Chaitya&label=Profile%20Views&color=2&icon=9&pretty=true" />
+</a>
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Chaitya&label=Profile%20Views&color=4&icon=9&pretty=true" />
+</a>
+-->
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Chaitya&label=Profile%20Views&color=7&icon=9&pretty=true" />
+</a>
+
 
 - 📚 **Worked on a project** [Hospital Management System](https://github.com/Chaitya-007/Hospital-Management-DBMS-PROJECT)
 
