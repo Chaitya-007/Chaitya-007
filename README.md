@@ -7,34 +7,51 @@
 <img align="right" alt="coding" width="320" src ="https://media.tenor.com/2uyENRmiUt0AAAAM/coding.gif">
 </p>
 
-<!-- BlueButton Profile Viewer
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chaitya-007&label=Profile%20views&color=0e75b6&style=flat" alt="chaitya-007" /> </p>
+<!-- BlueButton Profile Viewer 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chaitya-007&label=Profile%20views&color=red&style=flat" alt="chaitya-007" /> </p>
 -->
 
-<!--
+<!--0e75b6>
+<!--Another profile visit
+Markdown of red visit
 [![](https://visitcount.itsvg.in/api?id=chaitya-007&icon=9&color=7)](https://visitcount.itsvg.in)
 
+Tried to write markdown in different format
 <p>
   <a href="https://visitcount.itsvg.in/api?id=chaitya-007&icon=9&color=7"><img src="https://visitcount.itsvg.in"></a>
 </p>
--->
+
+<!-- HTML Frameworks but with different username "Chaitya"-->
 
 <!--
+Colour = 2
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Chaitya&label=Profile%20Views&color=2&icon=9&pretty=true" />
 </a>
+Colour = 4
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Chaitya&label=Profile%20Views&color=4&icon=9&pretty=true" />
 </a>
 -->
-<!--
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Chaitya&label=Profile%20Views&color=7&icon=9&pretty=true" />
 </a>
--->
+
+<!-- When you use username of chaitya-007 it doesn't works
 <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Chaitya&label=Profile%20Views&color=2&icon=9&pretty=true" />
+  <img src="https://visitcount.itsvg.in/api?id=chaitya-007&label=Profile%20Views&color=11&icon=9&pretty=true" />
 </a>
+<!--
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=chaitya-007&label=Profile%20Views&color=4&icon=9&pretty=true" />
+</a>
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=chaitya-007&label=Profile%20Views&color=4&icon=9&pretty=true" />
+</a>
+-->
+
+
+
 
 - 📚 **Worked on a project** [Hospital Management System](https://github.com/Chaitya-007/Hospital-Management-DBMS-PROJECT)
 
