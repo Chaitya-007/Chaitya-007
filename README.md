@@ -7,9 +7,9 @@
 <img align="right" alt="coding" width="320" src ="https://media.tenor.com/2uyENRmiUt0AAAAM/coding.gif">
 </p>
 
-<!-- BlueButton Profile Viewer 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chaitya-007&label=Profile%20views&color=red&style=flat" alt="chaitya-007" /> </p>
--->
+<!-- BlueButton Profile Viewer-->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chaitya-007&label=Profile%20views&color=0e75b6&style=flat" alt="chaitya-007" /> </p>
+
 
 <!--0e75b6>
 <!--Another profile visit
